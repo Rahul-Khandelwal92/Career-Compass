@@ -1,0 +1,5 @@
+{
+  "name": "Career Compass",
+  "description": "A Google Maps-style career transition navigator helping professionals switch roles with a clear, step-by-step path.",
+  "requestFramePermissions": []
+}
