@@ -52,7 +52,13 @@ As a Product Manager, every feature and design decision was made with the user's
 
 ## 📸 Screenshots
 
-*Coming soon*
+| Home | Skill Gap Analysis | Curriculum |
+|------|--------------------|------------|
+| <img src="screenshots/home.png" width="220"/> | <img src="screenshots/progress.png" width="220"/> | <img src="screenshots/learn.png" width="220"/> |
+
+| Curated Resources |
+|-------------------|
+| <img src="screenshots/curriculum-detail.png" width="220"/> |
 
 ---
 
